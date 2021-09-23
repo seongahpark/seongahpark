@@ -1,5 +1,4 @@
 # WELCOME TO SEONGAHPARK'S GIT
-
 ### Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
@@ -17,6 +16,8 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+
+![Dadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongahpark&show_icons=true&theme=radical)
 <!---
 seongahpark/seongahpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
