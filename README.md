@@ -1,5 +1,6 @@
 # WELCOME TO SEONGAHPARK'S GIT
 <div align="center">
+
 ### Introduction
   
 Hi, There! Why Don't you play MapleStory with ME?
