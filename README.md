@@ -1,7 +1,7 @@
 # WELCOME TO SEONGAHPARK'S GIT
 <div align="center">
 ### Introduction
-Hi! Why Don't you play MapleStory with ME?
+Hi, There! Why Don't you play MapleStory with ME?
 <br>
 ### Contact
 email : opink0513@naver.com
