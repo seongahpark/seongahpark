@@ -1,7 +1,11 @@
 # WELCOME TO SEONGAHPARK'S GIT
-<div align=center>
+<div align="center">
 ### Introduction
 Hi! Why Don't you play MapleStory with ME?
+<br>
+### Contact
+email : opink0513@naver.com
+<br>
 ### 🛠 Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
