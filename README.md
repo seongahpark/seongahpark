@@ -3,7 +3,7 @@
 
 ### Introduction
   
-Hi, There! Why Don't you play MapleStory with ME?
+🙋🏻‍♀️Hi, There! Why Don't you play 🍁MapleStory with ME?
 
 ### Contact
 email : opink0513@naver.com
