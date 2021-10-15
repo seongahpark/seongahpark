@@ -6,7 +6,7 @@
 🙋🏻‍♀️Hi, There! Why Don't you play 🍁MapleStory with ME?
 
 ### Contact
-email : opink0513@naver.com
+**E-mail** : ```opink0513@naver.com```
 
 ### 🛠 Tech Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
