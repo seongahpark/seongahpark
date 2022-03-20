@@ -21,11 +21,17 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Ardunino-00979D?style=flat-square&logo=ARDUINO&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksmsekekek21)](https://solved.ac/sksmsekekek21/)
 ![Dadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongahpark&show_icons=true&theme=radical)
